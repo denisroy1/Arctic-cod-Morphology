@@ -1,0 +1,322 @@
+﻿observation,file,photo_number,year,station,depth_m,assemblage_depth,shoredistance_km,assemblage_shore,assemblage_combined,fishID,length_mm,GM,picqual
+1,DR2018,38932_1,2019,KUG_01C,65,pelagic,105.6,offshore,pelagic_offshore,38932,104,TRUE,p
+2,DR2018,39540_1,2019,DAL_01B,60,pelagic,97.8,coastal,pelagic_coastal,40153,61,TRUE,p
+3,DR2018,39540_3,2019,DAL_01,25,pelagic,44.8,coastal,pelagic_coastal,39540,103,FALSE,n
+4,DR2018,39542_2,2019,DAL_01,25,pelagic,44.8,coastal,pelagic_coastal,39542,190,FALSE,n
+5,DR2018,39555_1,2019,DAL_01,25,pelagic,44.8,coastal,pelagic_coastal,39555,107,TRUE,g
+6,DR2018,40163_3,2019,DAL_01B,60,pelagic,97.8,offshore,pelagic_offshore,40163,NA,TRUE,p
+7,DR2018,40167_1,2019,DAL_01B,60,pelagic,97.8,offshore,pelagic_offshore,40167,107,TRUE,p
+8,DR2018,40173_2,2019,DAL_01B,60,pelagic,97.8,offshore,pelagic_offshore,40173,138,TRUE,p
+9,DR2018,40641_1,2019,ICE_03,45,pelagic,84.5,coastal,pelagic_coastal,40641,107,TRUE,p
+10,DR2018,40642_1,2019,ICE_03,45,pelagic,84.5,coastal,pelagic_coastal,40642,98,TRUE,p
+11,DR2018,40644_1,2019,ICE_03,45,pelagic,84.5,coastal,pelagic_coastal,40644,100,TRUE,p
+12,DR2018,40658_2,2019,ICE_03,45,pelagic,84.5,coastal,pelagic_coastal,40658,88,TRUE,p
+13,DR2018,40817_2,2019,FKN_06,50,pelagic,6.84,coastal,pelagic_coastal,40817,70,TRUE,g
+14,DR2018,40823_1,2019,FKN_06,50,pelagic,6.84,coastal,pelagic_coastal,40823,86,TRUE,g
+15,DR2018,40824_1,2019,FKN_06,50,pelagic,6.84,coastal,pelagic_coastal,40824,87,TRUE,g
+16,DR2018,40831_2,2019,FKN_06,50,pelagic,6.84,coastal,pelagic_coastal,40831,66,TRUE,g
+17,DR2018,40833_2,2019,FKN_06,50,pelagic,6.84,coastal,pelagic_coastal,40833,83,TRUE,g
+18,DR2018,40865_3,2019,FKN_06,50,pelagic,6.84,coastal,pelagic_coastal,40865,79,TRUE,g
+19,DR2018,40866_1,2019,FKN_06,50,pelagic,6.84,coastal,pelagic_coastal,40866,63,TRUE,g
+20,DR2018,40870_3,2019,FKN_06,50,pelagic,6.84,coastal,pelagic_coastal,40870,71,TRUE,g
+21,DR2018,40871_1,2019,FKN_06,50,pelagic,6.84,coastal,pelagic_coastal,40871,75,TRUE,g
+22,DR2018,40872_2,2019,FKN_06,50,pelagic,6.84,coastal,pelagic_coastal,40872,60,TRUE,p
+23,DR2018,40956_4,2019,FRK_06,80,pelagic,13.2,coastal,pelagic_coastal,40956,95,TRUE,g
+24,DR2018,40959_1,2019,FRK_06,80,pelagic,13.2,coastal,pelagic_coastal,40959,90,TRUE,g
+25,DR2018,40960_1,2019,FRK_06,80,pelagic,13.2,coastal,pelagic_coastal,40960,107,TRUE,g
+26,DR2018,40975_2,2019,FRK_06,80,pelagic,13.2,coastal,pelagic_coastal,40975,87,TRUE,p
+27,DR2018,40997_4,2019,FRK_06,80,pelagic,13.2,coastal,pelagic_coastal,40997,104,TRUE,g
+28,DR2018,41973_1,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,41973,162,TRUE,g
+29,DR2018,41976_2,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,41976,195,FALSE,n
+30,DR2018,41984_1,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,41984,143,TRUE,g
+31,DR2018,41986_2,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,41986,152,TRUE,g
+32,DR2018,41990_2,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,41990,113,TRUE,g
+33,DR2018,41991_1,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,41991,155,FALSE,n
+34,DR2018,41992_1,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,41992,137,TRUE,g
+35,DR2018,41993_1,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,41993,157,FALSE,n
+36,DR2018,41994_2,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,41994,174,FALSE,n
+37,DR2018,41995_1,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,41995,122,TRUE,g
+38,DR2018,41996_1,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,41996,117,TRUE,g
+39,DR2018,41997_1,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,41997,158,TRUE,g
+40,DR2018,41998_2,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,41998,126,TRUE,g
+41,DR2018,41999_2,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,41999,168,TRUE,g
+42,DR2018,42000_1,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,42000,137,FALSE,n
+43,DR2018,42001_2,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,42001,127,TRUE,g
+44,DR2018,42099_2,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,42099,204,FALSE,n
+45,DR2018,42106_2,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,42106,140,TRUE,g
+46,DR2018,42107_2,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,42107,128,FALSE,n
+47,DR2018,42112_2,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,42112,123,FALSE,n
+48,DR2018,42114_2,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,42114,118,TRUE,g
+49,DR2018,42116_2,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,42116,202,TRUE,p
+50,DR2018,42123_1,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,42123,125,TRUE,g
+51,DR2018,42124_2,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,42124,109,TRUE,g
+52,DR2018,42125_1,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,42125,103,TRUE,g
+53,DR2018,42126_2,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,42126,117,FALSE,n
+54,DR2018,42131_3,2019,DUS_08,340,benthic,9.86,coastal,benthic_coastal,42131,120,TRUE,g
+55,DR2018,44020_2,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44020,80,FALSE,n
+56,DR2018,44029_2,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44029,67,TRUE,p
+57,DR2018,44031_1,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44031,79,TRUE,g
+58,DR2018,44032_1,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44032,76,FALSE,n
+59,DR2018,44033_3,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44033,76,TRUE,g
+60,DR2018,44034_2,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44034,79,TRUE,g
+61,DR2018,44036_1,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44035,67,FALSE,n
+62,DR2018,44037_2,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44037,81,TRUE,g
+63,DR2018,44038_4,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44038,71,FALSE,n
+64,DR2018,44039_4,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44039,65,TRUE,g
+65,DR2018,44040_3,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44040,59,FALSE,n
+66,DR2018,44041_2,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44041,70,TRUE,g
+67,DR2018,44042_2,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44042,78,TRUE,g
+68,DR2018,44043_3,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44043,76,FALSE,n
+69,DR2018,44044_4,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44044,61,TRUE,g
+70,DR2018,44045_1,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44045,76,TRUE,g
+71,DR2018,44046_3,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44046,69,FALSE,n
+72,DR2018,44047_2,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44047,70,TRUE,g
+73,DR2018,44048_1,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44048,73,TRUE,g
+74,DR2018,44049_1,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44049,73,FALSE,n
+75,DR2018,44050_3,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44050,63,TRUE,g
+76,DR2018,44051_2,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44051,66,TRUE,g
+77,DR2018,44052_4,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44052,68,TRUE,g
+78,DR2018,44053_4,2019,MTI_06,200,benthic,6.71,coastal,benthic_coastal,44053,62,TRUE,g
+79,DR2018,45769_1,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45769,132,FALSE,n
+80,DR2018,45770_1,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45770,96,FALSE,n
+81,DR2018,45771_1,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45771,93,TRUE,p
+82,DR2018,45772_2,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45772,117,TRUE,g
+83,DR2018,45773_2,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45773,127,TRUE,g
+84,DR2018,45774_1,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45774,87,TRUE,g
+85,DR2018,45775_2,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45775,99,FALSE,n
+86,DR2018,45776_2,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45776,89,TRUE,g
+87,DR2018,45777_1,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45777,96,TRUE,g
+88,DR2018,45778_1,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45778,94,TRUE,g
+89,DR2018,45779_1,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45779,96,TRUE,g
+90,DR2018,45780_2,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45780,94,TRUE,g
+91,DR2018,45781_2,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45781,155,FALSE,n
+92,DR2018,45782_2,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45782,120,FALSE,n
+93,DR2018,45783_2,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45783,127,FALSE,n
+94,DR2018,45784_1,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45784,85,FALSE,n
+95,DR2018,45785_1,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45785,115,FALSE,n
+96,DR2018,45786_2,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45786,91,FALSE,n
+97,DR2018,45787_1,2019,MTI_01,200,benthic,34.7,coastal,benthic_coastal,45787,95,FALSE,n
+98,DR2018,46596_2,2019,CPB_10,230,benthic,17.3,coastal,benthic_coastal,46596,156,FALSE,n
+99,DR2018,46601_2,2019,CPB_10,230,benthic,17.3,coastal,benthic_coastal,46601,154,TRUE,p
+100,DR2018,46602_2,2019,CPB_10,230,benthic,17.3,coastal,benthic_coastal,46602,144,FALSE,n
+101,DR2018,46603_1,2019,CPB_10,230,benthic,17.3,coastal,benthic_coastal,46603,135,TRUE,g
+102,DR2018,46604_2,2019,CPB_10,230,benthic,17.3,coastal,benthic_coastal,46604,174,TRUE,g
+103,DR2018,46607_2,2019,CPB_10,230,benthic,17.3,coastal,benthic_coastal,46607,157,FALSE,n
+104,DR2018,46610_2,2019,CPB_10,230,benthic,17.3,coastal,benthic_coastal,46610,136,TRUE,g
+105,DR2018,46611_2,2019,CPB_10,230,benthic,17.3,coastal,benthic_coastal,46611,176,TRUE,g
+106,DR2018,46613_1,2019,CPB_10,230,benthic,17.3,coastal,benthic_coastal,46613,30,FALSE,n
+107,DR2018,46616_2,2019,CPB_10,230,benthic,17.3,coastal,benthic_coastal,46616,158,FALSE,n
+108,DR2018,46617_2,2019,CPB_10,230,benthic,17.3,coastal,benthic_coastal,46617,150,FALSE,n
+109,DR2018,46618_1,2019,CPB_10,230,benthic,17.3,coastal,benthic_coastal,46618,160,TRUE,g
+110,DR2018,47589_1,2019,CPB_03,236,benthic,18.1,coastal,benthic_coastal,47594,147,FALSE,n
+111,DR2018,47589_2,2019,CPB_03,236,benthic,18.1,coastal,benthic_coastal,47589,131,FALSE,n
+112,DR2018,47591_1,2019,CPB_03,236,benthic,18.1,coastal,benthic_coastal,47591,132,TRUE,g
+113,DR2018,47592_1,2019,CPB_03,236,benthic,18.1,coastal,benthic_coastal,47592,97,FALSE,n
+114,DR2018,47593_1,2019,CPB_03,236,benthic,18.1,coastal,benthic_coastal,47593,133,TRUE,p
+115,DR2018,47594_2,2019,CPB_03,236,benthic,18.1,coastal,benthic_coastal,47594,147,FALSE,n
+116,DR2018,47595_2,2019,CPB_03,236,benthic,18.1,coastal,benthic_coastal,47595,117,TRUE,g
+117,DR2018,47595_3,2019,CPB_03,236,benthic,18.1,coastal,benthic_coastal,47589,131,TRUE,p
+118,DR2018,47596_2,2019,CPB_03,236,benthic,18.1,coastal,benthic_coastal,47596,88,TRUE,g
+119,DR2018,47597_2,2019,CPB_03,236,benthic,18.1,coastal,benthic_coastal,47597,112,TRUE,g
+120,DR2018,47598_1,2019,CPB_03,236,benthic,18.1,coastal,benthic_coastal,47598,82,FALSE,n
+121,DR2018,47599_2,2019,CPB_03,236,benthic,18.1,coastal,benthic_coastal,47599,136,TRUE,p
+122,DR2018,47601_2,2019,CPB_03,236,benthic,18.1,coastal,benthic_coastal,47601,93,TRUE,g
+123,DR2018,47602_2,2019,CPB_03,236,benthic,18.1,coastal,benthic_coastal,47602,89,TRUE,g
+124,DR2018,47603_2,2019,CPB_03,236,benthic,18.1,coastal,benthic_coastal,47603,122,TRUE,p
+125,DR2018,48055_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48055,113,TRUE,g
+126,DR2018,48056_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48056,115,TRUE,g
+127,DR2018,48058_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48058,152,TRUE,g
+128,DR2018,48059_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48059,119,TRUE,g
+129,DR2018,48065_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48065,119,FALSE ,n
+130,DR2018,48067_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48067,138,TRUE,g
+131,DR2018,48069_1,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48069,79,TRUE,g
+132,DR2018,48071_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48071,131,FALSE,n
+133,DR2018,48072_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48072,132,FALSE ,n
+134,DR2018,48075_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48075,145,TRUE,g
+135,DR2018,48076_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48076,138,FALSE,n
+136,DR2018,48078_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48078,128,TRUE,g
+137,DR2018,48080_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48080,109,TRUE,g
+138,DR2018,48082_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48082,131,FALSE,n
+139,DR2018,48084_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48084,129,TRUE,g
+140,DR2018,48085_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48085,148,FALSE,n
+141,DR2018,48099_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48099,122,TRUE,g
+142,DR2018,48102_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48102,110,FALSE,n
+143,DR2018,48103_1,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48103,136,TRUE,p
+144,DR2018,48107_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48107,116,TRUE,g
+145,DR2018,48108_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48108,125,TRUE,g
+146,DR2018,48110_2,2018,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48110,111,TRUE,g
+147,DR2018,48111_1,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48111,118,TRUE,g
+148,DR2018,48113_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48113,121,FALSE,n
+149,DR2018,48115_2,2019,KUG_03,200,benthic,162.8,offshore,benthic_offshore,48115,158,FALSE ,n
+150,DR2018,48255_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48255,123,FALSE ,n
+151,DR2018,48256_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48256,139,FALSE ,n
+152,DR2018,48258_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48258,107,FALSE ,n
+153,DR2018,48259_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48259,143,FALSE ,n
+154,DR2018,42860_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48260,125,FALSE ,n
+155,DR2018,48261_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,42861,108,FALSE ,n
+156,DR2018,48262_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48262,94,FALSE ,n
+157,DR2018,48263_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48263,126,TRUE,g
+158,DR2018,48264_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48264,127,TRUE,g
+159,DR2018,48265_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48265,147,FALSE ,n
+160,DR2018,48266_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48266,154,TRUE,g
+161,DR2018,48267_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48267,145,TRUE,g
+162,DR2018,48268_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48268,129,FALSE ,n
+163,DR2018,48269_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48269,116,FALSE ,n
+164,DR2018,48270_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48270,115,TRUE,g
+165,DR2018,48271_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48271,127,FALSE ,n
+166,DR2018,48272_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48272,134,TRUE,g
+167,DR2018,48273_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48273,121,FALSE ,n
+168,DR2018,48274_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48274,102,TRUE,g
+169,DR2018,48275_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48275,121,TRUE,g
+170,DR2018,48276_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48276,140,FALSE ,n
+171,DR2018,48277_3,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48277,87,TRUE,g
+172,DR2018,48278_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48278,134,TRUE,g
+173,DR2018,48279_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,48279,117,TRUE,g
+174,DR2018,50111_2,2018,FKN_04,150,pelagic,2.46,coastal,pelagic_coastal,50111,116,FALSE ,n
+175,DR2018,50112_2,2018,FKN_04,150,pelagic,2.46,coastal,pelagic_coastal,50112,116,TRUE,p
+176,DR2018,50123_2,2018,FKN_04,150,pelagic,2.46,coastal,pelagic_coastal,50123,122,TRUE,g
+177,DR2018,50124_2,2018,FKN_04,150,pelagic,2.46,coastal,pelagic_coastal,50124,119,TRUE,g
+178,DR2018,50125_1,2018,FKN_04,150,pelagic,2.46,coastal,pelagic_coastal,50125,125,FALSE ,n
+179,DR2018,50126_2,2018,FKN_04,150,pelagic,2.46,coastal,pelagic_coastal,50126,91,FALSE ,n
+180,DR2018,50129_2,2018,FKN_04,150,pelagic,2.46,coastal,pelagic_coastal,50129,78,TRUE,g
+181,DR2018,50130_2,2018,FKN_04,150,pelagic,2.46,coastal,pelagic_coastal,50130,125,FALSE ,n
+182,DR2018,50131_1,2018,FKN_04,150,pelagic,2.46,coastal,pelagic_coastal,50131,104,TRUE,g
+183,DR2018,50132_1,2018,FKN_04,150,pelagic,2.46,coastal,pelagic_coastal,50132,117,TRUE,g
+184,DR2018,50134_1,2018,FKN_04,150,pelagic,2.46,coastal,pelagic_coastal,50134,164,FALSE ,n
+185,DR2018,50135_2,2018,FKN_04,150,pelagic,2.46,coastal,pelagic_coastal,50135,97,TRUE,g
+186,DR2018,50137_2,2018,FKN_04,150,pelagic,2.46,coastal,pelagic_coastal,50137,97,TRUE,g
+187,DR2018,50145_2,2018,FKN_04,150,pelagic,2.46,coastal,pelagic_coastal,50145,80,FALSE,n
+188,DR2018,52125_2,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52125,159,FALSE ,n
+189,DR2018,52128_1,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52128,119,FALSE ,n
+190,DR2018,52129_2,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52129,77,TRUE,g
+191,DR2018,52132_2,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52132,48,TRUE,p
+192,DR2018,52133_2,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52133,107,FALSE ,n
+193,DR2018,52135_2,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52135,120,FALSE ,n
+194,DR2018,52136_1,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52136,119,FALSE ,n
+195,DR2018,52137_2,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52137,139,FALSE ,n
+196,DR2018,52139_1,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52139,35,FALSE ,n
+197,DR2018,52156_1,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52156,97,TRUE,g
+198,DR2018,52157_1,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52157,123,FALSE ,n
+199,DR2018,52158_2,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52158,85,FALSE ,n
+200,DR2018,52169_1,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52169,171,TRUE,g
+201,DR2018,52175_2,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52175,105,TRUE,g
+202,DR2018,52177_2,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52177,69,FALSE ,n
+203,DR2018,52183_1,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52183,74,TRUE,g
+204,DR2018,52185_2,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52185,91,FALSE ,n
+205,DR2018,52186_1,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52186,82,FALSE ,n
+206,DR2018,52187_2,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52187,96,TRUE,g
+207,DR2018,52188_1,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52188,94,TRUE,p
+208,DR2018,52189_2,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52189,79,TRUE,g
+209,DR2018,52191_1,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52191,31,TRUE,p
+210,DR2018,52196_2,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52196,84,FALSE ,n
+211,DR2018,52198_2,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52198,73,TRUE,g
+212,DR2018,52199_1,2018,BPT_05,130,pelagic,12.8,coastal,pelagic_coastal,52199,80,TRUE,g
+213,DR2019,55118_1,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55118,162,FALSE ,n
+214,DR2019,55119_1,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55119,132,TRUE,g
+215,DR2019,55120_1,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55120,80,FALSE ,n
+216,DR2019,55121_2,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55121,142,FALSE ,n
+217,DR2019,55122_1,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55122,91,FALSE ,n
+218,DR2019,55123_1,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55123,159,TRUE,g
+219,DR2019,55124_2,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55124,92,FALSE ,n
+220,DR2019,55125_2,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55125,127,FALSE ,n
+221,DR2019,55126_2,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55126,81,FALSE ,n
+222,DR2019,55127_1,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55127,149,FALSE ,n
+223,DR2019,55128_2,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55128,78,FALSE ,n
+224,DR2019,55376_1,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55376,160,FALSE ,n
+225,DR2019,55377_1,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55377,142,TRUE,g
+226,DR2019,55378_2,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55378,131,TRUE,g
+227,DR2019,55379_2,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55379,155,TRUE,p
+228,DR2019,55380_2,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55380,87,FALSE ,n
+229,DR2019,55381_2,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55381,91,FALSE ,n
+230,DR2019,55382_1,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55382,87,FALSE ,n
+231,DR2019,55383_1,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55383,79,TRUE,g
+232,DR2019,55385_1,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55385,127,FALSE ,n
+233,DR2019,55386_1,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55386,84,FALSE ,n
+234,DR2019,55387_1,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55387,115,FALSE ,n
+235,DR2019,55388_1,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55388,89,FALSE ,n
+236,DR2019,55389_1,2018,KUG_05,500,benthic,192.6,offshore,benthic_offshore,55389,131,FALSE ,n
+237,DR2019,55538_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55538,129,FALSE ,n
+238,DR2019,55539_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55539,130,TRUE,g
+239,DR2019,55540_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55540,150,TRUE,g
+240,DR2019,55541_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55541,99,TRUE,g
+241,DR2019,55542_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55542,73,TRUE,g
+242,DR2019,55543_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55543,140,TRUE,g
+243,DR2019,55544_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55544,88,TRUE,g
+244,DR2019,55545_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55545,93,FALSE ,n
+245,DR2019,55546_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55546,90,TRUE,g
+246,DR2019,55547_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55547,128,TRUE,g
+247,DR2019,55548_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55548,125,TRUE,g
+248,DR2019,55549_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55549,138,TRUE,g
+249,DR2019,55550_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55550,120,FALSE ,n
+250,DR2019,55551_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55551,151,FALSE ,n
+251,DR2019,55552_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55552,88,FALSE ,n
+252,DR2019,55553_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55553,103,TRUE,g
+253,DR2019,55554_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55554,149,TRUE,g
+254,DR2019,55555_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55555,74,FALSE ,n
+255,DR2019,55556_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55556,87,TRUE,g
+256,DR2019,55557_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55557,173,TRUE,g
+257,DR2019,55558_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55558,93,TRUE,g
+258,DR2019,55559_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55559,105,TRUE,g
+259,DR2019,55560_2,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55560,90,TRUE,g
+260,DR2019,55561_3,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55561,124,TRUE,g
+261,DR2019,55716_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55716,NA,FALSE ,n
+262,DR2019,55747_1,2018,KUG_04,350,benthic,178.8,offshore,benthic_offshore,55747,NA,TRUE,n
+263,DR2019,58601_1,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58601,79,TRUE,p
+264,DR2019,58605_1,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58605,66,TRUE,g
+265,DR2019,58619_2,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58619,54,FALSE ,n
+266,DR2019,58629_1,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58629,61,TRUE,g
+267,DR2019,58634_2,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58634,72,FALSE ,n
+268,DR2019,58638_2,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58638,80,TRUE,g
+269,DR2019,58639_1,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58639,57,FALSE ,n
+270,DR2019,58640_2,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58640,63,TRUE,g
+271,DR2019,58641_1,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58641,67,TRUE,p
+272,DR2019,58642_2,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58642,63,FALSE ,n
+273,DR2019,58643_1,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58643,62,TRUE,g
+274,DR2019,58644_1,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58644,65,TRUE,g
+275,DR2019,58645_2,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58645,61,TRUE,p
+276,DR2019,58646_1,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58646,65,TRUE,g
+277,DR2019,58647_2,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58647,64,TRUE,g
+278,DR2019,58649_1,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58649,60,TRUE,g
+279,DR2019,58650_1,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58650,76,TRUE,g
+280,DR2019,58651_2,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58651,64,TRUE,g
+281,DR2019,58652_2,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58652,60,TRUE,g
+282,DR2019,58653_1,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58653,61,TRUE,g
+283,DR2019,58654_2,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58654,66,FALSE ,n
+284,DR2019,58655_1,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58655,68,TRUE,g
+285,DR2019,58656_1,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58656,61,FALSE ,n
+286,DR2019,58657_2,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58657,61,FALSE ,n
+287,DR2019,58663_1,2018,BPT_03,75,pelagic,22.6,coastal,pelagic_coastal,58663,67,TRUE,g
+288,DR2019,60095_2,2018,AMG_03,640,benthic,41.9,coastal,benthic_coastal,60095,138,TRUE,g
+289,DR2019,60103_2,2018,AMG_03,640,benthic,41.9,coastal,benthic_coastal,60103,133,FALSE ,n
+290,DR2019,60107_1,2018,AMG_03,640,benthic,41.9,coastal,benthic_coastal,60107,133,FALSE ,n
+291,DR2019,60108_1,2018,AMG_03,640,benthic,41.9,coastal,benthic_coastal,60108,143,FALSE ,n
+292,DR2019,60109_2,2018,AMG_03,640,benthic,41.9,coastal,benthic_coastal,60109,158,TRUE,g
+293,DR2019,60110_2,2018,AMG_03,640,benthic,41.9,coastal,benthic_coastal,60110,173,TRUE,g
+294,DR2019,60113_2,2018,AMG_03,640,benthic,41.9,coastal,benthic_coastal,60113,146,TRUE,g
+295,DR2019,60120_1,2018,AMG_03,640,benthic,41.9,coastal,benthic_coastal,60120,132,TRUE,g
+296,DR2019,60123_1,2018,AMG_03,640,benthic,41.9,coastal,benthic_coastal,60123,150,TRUE,g
+297,DR2019,60161_2,2018,AMG_03,640,benthic,41.9,coastal,benthic_coastal,60161,135,TRUE,g
+298,DR2019,64111_1,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64111,150,TRUE,g
+299,DR2019,64112_1,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64112,114,FALSE ,n
+300,DR2019,64113_1,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64113,130,FALSE ,n
+301,DR2019,64114_1,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64114,114,FALSE ,n
+302,DR2019,64115_1,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64115,145,FALSE ,n
+303,DR2019,64116_1,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64116,96,FALSE ,n
+304,DR2019,64117_1,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64117,132,TRUE,g
+305,DR2019,64118_2,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64118,130,FALSE ,n
+306,DR2019,64119_1,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64119,120,TRUE,g
+307,DR2019,64120_3,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64120,128,TRUE,g
+308,DR2019,64121_1,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64121,125,FALSE ,n
+309,DR2019,64122_1,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64122,108,FALSE ,n
+310,DR2019,64124_2,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64124,105,FALSE ,n
+311,DR2019,64125_1,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64125,166,FALSE ,n
+312,DR2019,64126_1,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64126,114,FALSE ,n
+313,DR2019,64127_2,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64127,126,FALSE ,n
+314,DR2019,64128_2,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64128,98,FALSE ,n
+315,DR2019,64129_1,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64129,98,FALSE ,n
+316,DR2019,64130_1,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64130,90,TRUE,p
+317,DR2019,64131_2,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64131,163,FALSE ,n
+318,DR2019,64132_2,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64132,140,FALSE ,n
+319,DR2019,64133_2,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64133,97,FALSE ,n
+320,DR2019,64134_2,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64134,87,FALSE ,n
+321,DR2019,64135_2,2018,MTI_04,150,pelagic,8.83,coastal,pelagic_coastal,64135,138,FALSE ,n
