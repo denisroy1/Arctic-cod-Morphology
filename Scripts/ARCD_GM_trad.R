@@ -35,7 +35,7 @@ rm(list = ls())
 }
 
 ## Setting working directory (path to where the data files located)
-setwd("/Users/denis/Library/CloudStorage/Dropbox/McGill/students/Honours/Juliano Mazalia/Data/manuscript/ArcticScience/Reviews/resubmission/2ndsubmission/2nd review/working replies/2023-03-31/3rd submission/4th submission/Data and Scripts/")
+setwd("/pathtofile/")
 
 ## Reading in the metadata
 ARCD_GM_data <- read.csv("ACmeta.csv", header = T, na.string = "", 
