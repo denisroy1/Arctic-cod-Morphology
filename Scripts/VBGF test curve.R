@@ -28,7 +28,7 @@ rm(list = ls())
 #### Importing and Cleaning the data ####
 
 ## Setting the working directory to where data and scripts are located
-setwd("/Users/denis/Library/CloudStorage/Dropbox/McGill/students/Honours/Juliano Mazalia/Data/manuscript/ArcticScience/Reviews/resubmission/2ndsubmission/2nd review/working replies/2023-03-31/3rd submission/4th submission/Data and Scripts/")
+setwd("/pathtofile/")
 
 ## Reading in the data from the file. Looking for "cod_photo.csv" file.
 ARCD_GM_data <- read.csv("Arctic_cod_raw.csv", header=TRUE)
