@@ -29,7 +29,7 @@ rm(list=ls())
 }
 
 ## Set up working directory
-setwd("/Users/denis/Library/CloudStorage/Dropbox/McGill/students/Honours/Juliano Mazalia/Data/manuscript/ArcticScience/Reviews/resubmission/2ndsubmission/2nd review/working replies/2023-03-31/3rd submission/4th submission/Data and Scripts/")
+setwd("/pathtofile/")
 
 ## Reading in the data file "ARCD_GR_data.csv"
 gillrakers <- read.csv("ARCD_GR_data.csv", header = T, stringsAsFactors = T, na.strings = "")
