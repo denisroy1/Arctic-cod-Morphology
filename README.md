@@ -21,7 +21,7 @@ Using these data, the script performs a Generalised Procrustes Analysis (GPA) on
 #
 ### Data:
 
-To see the datasets used for this research go to the 'data' folder or to the dryad repository at the following link: [doi.org/10.5061/dryad.5dv41nsbh]([url](https://doi.org/10.5061/dryad.5dv41nsbh)
+To see the datasets used for this research go to the 'data' folder or to the dryad repository at the following link: [doi.org/10.5061/dryad.5dv41nsbh](https://doi.org/10.5061/dryad.5dv41nsbh)
 
 * Arctic_cod_raw.csv: Contains the raw data forming the base of the analyses. Individual fish are listed, where they were collected from, their lengths (in mm), whether a picture was taken, and if that picture was good enough for GM analyses.
 
